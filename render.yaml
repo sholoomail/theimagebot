@@ -1,10 +1,10 @@
 services:
   - type: worker
-    name: Web-Screenshot-Bot
+    name: theimagebot
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python __main__.py
-    repo: https://github.com/sholoomail/Web-Screenshot-Bot.git
+    startCommand: python main.py
+    repo: https://github.com/sholoomail/theimagebot.git
     branch: master
     envVars:
       - key: TOKEN 
