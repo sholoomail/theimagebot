@@ -9,6 +9,8 @@ services:
     envVars:
       - key: TOKEN 
         sync: false
+      - key: ENV 
+        value: ANYTHING    
       - key: CHROMEDRIVER_PATH 
         value: /app/.chromedriver/bin/chromedriver
       - key: LD_LIBRARY_PATH 
