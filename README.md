@@ -11,8 +11,13 @@
 <p> ➠ I Can Add Watermark to An Image</p>
 <p> ➠ I Can Blur An Image</p>
 
-## Demo Bot
 
+
+### Deploy To Render (Paid)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?)
+
+## Demo Bot
 <a href="https://telegram.dog/theimagebot"><img src="https://img.shields.io/badge/Bot%20Status%20-Up-%3CCOLOR%3E"></a>
 
 
