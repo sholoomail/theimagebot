@@ -4,6 +4,3 @@ Pillow==8.2.0
 pytesseract==0.3.7
 requests==2.25.1
 selenium==3.141.0
-git+https://github.com/heroku/heroku-buildpack-google-chrome.git
-git+https://github.com/heroku/heroku-buildpack-chromedriver.git
-git+https://github.com/heroku/heroku-buildpack-apt.git
